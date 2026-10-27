@@ -14,6 +14,4 @@ public class Task1 {
         char h='o';
         String z="велосипед";
         double x2=7415.6554333133248256;
-        String y2="снежинка";
-    }
-}
+        String y2="снежинка";}}
